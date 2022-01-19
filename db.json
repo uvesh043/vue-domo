@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "email": "rihan@gmai.com",
+      "password": "rihan",
+      "name": "rihan",
+      "id": 1
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "1234",
+      "name": "Name",
+      "id": 2
+    },
+    {
+      "email": "name1@gmail.com",
+      "password": "123",
+      "name": "Name1",
+      "id": 3
+    }
+  ]
+}
